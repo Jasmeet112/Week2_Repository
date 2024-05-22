@@ -8,6 +8,8 @@ package studentlist;
  *
  * @author jassk
  */
+
+//Hi
 public class Student 
 {
    private String name; // encapsulation 
