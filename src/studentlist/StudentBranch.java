@@ -9,5 +9,5 @@ package studentlist;
  * @author jassk
  */
 public class StudentBranch {
-    privte int exp;
+    private int exp;
 }
